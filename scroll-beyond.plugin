@@ -1,0 +1,9 @@
+[Plugin]
+Module=scroll-beyond
+Loader=python3
+IAge=3
+Name=Scroll past document end
+Description=Very simple plugin to scroll past the end of documents
+Authors=Arpad Borsos <arpad.borsos@googlemail.com>
+Copyright=Copyright © 2013 Arpad Borsos
+Website=http://gedit.swatinem.de/
